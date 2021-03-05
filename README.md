@@ -9,6 +9,22 @@
 - Deliverable 4: Visualizing Cryptocurrencies Results
 
 # Results
-
+- Deliverable 1:
+![](Resources/Pictures/D1.png)
+- Deliverable 2:
+![](Resources/Pictures/D2.png)
+- Deliverable 3:
+![](Resources/Pictures/D3.png)
+- Deliverable 4:
+![](Resources/Pictures/D4.png)
+- Deliverable 5:
+![](Resources/Pictures/D5.png)
 
 # Summary
+
+## Data Rescources & Codes
+
+-[CSV](Resources/CSV/crypto_data.csv)
+
+-[JupyterNotebook](crypto_clustering.ipynb)
+
