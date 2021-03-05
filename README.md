@@ -15,9 +15,9 @@
 ![](Resources/Pictures/D2.png)
 - Deliverable 3:
 ![](Resources/Pictures/D3.png)
-- Deliverable 4:
+- Deliverable 4 part 1:
 ![](Resources/Pictures/D4.png)
-- Deliverable 5:
+- Deliverable 4 part 2:
 ![](Resources/Pictures/D5.png)
 
 # Summary
