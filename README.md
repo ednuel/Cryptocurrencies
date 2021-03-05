@@ -21,7 +21,7 @@
 ![](Resources/Pictures/D5.png)
 
 # Summary
-Using Principal Component Analysis (PCA) algorithm along with k means algorithm we are able to visualize data and determine the most tradable cryptocurrencies.We were able to find 532 tradable cryptocurrencies which could be a a good potential addition to the investment portfolio. Along with the help of the unsupervised machine learning algorithms we were able to conclude our findings.
+Using Principal Component Analysis (PCA) algorithm, along with k means algorithm, we are able to visualize data and determine the most tradable cryptocurrencies. Based on elbow curve figure, I decided to group preprocessed 533 cryptocurrencies into 4 clusters in oder to find their patterns. The 2d scatter figure shows clusters related to the number of available coins versus the total number of mined coins. The 3d scatter graph clearly displays different clusters distributed with 3 principal component variables. Along with the help of the unsupervised machine learning algorithms we were able to conclude our findings.
 ## Data Rescources & Codes
 
 -[CSV](Resources/CSV/crypto_data.csv)
